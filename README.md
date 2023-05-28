@@ -1,8 +1,10 @@
-### Wellcome!
+### Welcome!
 
 This is **Lumina**.
 
-An university student who interested in **ComputerGraphics and GameEngine**.
+An courious university student who interested in *ComputerGraphics and GameEngine Tech*.
+
+And also love *animate and drawing*!
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TophLumina&show_icons=true)
 
