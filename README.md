@@ -2,7 +2,7 @@
 
 This is **Lumina**.
 
-An university student who interested in **ComputerGraphic and Games**.
+An university student who interested in **ComputerGraphics and GameEngine**.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TophLumina&show_icons=true)
 
