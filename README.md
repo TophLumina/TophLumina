@@ -1,4 +1,12 @@
-### Hi there 👋
+### Wellcome!
+
+This is **Lumina**.
+
+An university student who interested in **ComputerGraphic and Games**.
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TophLumina&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TophLumina)
 
 <!--
 **TophLumina/TophLumina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
