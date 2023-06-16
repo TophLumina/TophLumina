@@ -2,7 +2,7 @@
 
 This is **Lumina**.
 
-An courious university student who interested in *ComputerGraphics and GameEngine Tech*.
+A courious university student who interested in *ComputerGraphics and GameEngine Tech*.
 
 And also love *animate and drawing*!
 
