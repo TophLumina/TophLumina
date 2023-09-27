@@ -1,26 +1,9 @@
-### Welcome!
+<h1 align="center">Hi, There is Toph Lumina</h1>
+<h3 align="center">A curious university student who interested in Computer Graphics and Game Engine Tech.</h3>
 
-This is **Lumina**.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tophlumina&label=Profile%20views&color=0e75b6&style=flat" alt="tophlumina" /> </p>
 
-A courious university student who interested in *ComputerGraphics and GameEngine Tech*.
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-And also love *animate and drawing*!
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TophLumina&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TophLumina)
-
-<!--
-**TophLumina/TophLumina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tophlumina&show_icons=true&locale=en&layout=compact" alt="tophlumina" /></p>
