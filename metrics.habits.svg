@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+  <title id="title">Metrics habits placeholder</title>
+  <desc id="desc">Placeholder for coding habits and active hours metrics.</desc>
+  <rect width="800" height="220" fill="#ffffff"/>
+  <text x="400" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#24292f">Coding habits metrics will appear here</text>
+  <text x="400" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">This panel will show active hours, active days, and recent coding facts after the workflow runs.</text>
+  <text x="400" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">Push to master or run the Metrics workflow manually to replace this placeholder.</text>
+</svg>

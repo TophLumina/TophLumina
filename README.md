@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+	<img src="./metrics.habits.svg" alt="Toph Lumina coding habits and active hours" />
+</p>
+
+<p align="center">
 	<img src="./metrics.activity.svg" alt="Toph Lumina recent repository activity" />
 </p>
 

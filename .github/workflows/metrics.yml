@@ -1,9 +1,20 @@
 name: Metrics
 
 on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - metrics.activity.svg
+      - metrics.habits.svg
+      - metrics.lines.svg
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
@@ -26,6 +37,23 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_delay: 30
 
+      - name: Generate habits metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tophlumina
+          base: ""
+          template: classic
+          config_timezone: Asia/Shanghai
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          plugin_habits_languages_limit: 0
+
       - name: Generate recent activity metrics
         uses: lowlighter/metrics@latest
         with:
@@ -36,7 +64,7 @@ jobs:
           template: classic
           config_timezone: Asia/Shanghai
           plugin_activity: yes
-          plugin_activity_limit: 6
+          plugin_activity_limit: 8
           plugin_activity_days: 30
           plugin_activity_timestamps: yes
           plugin_activity_filter: push, pr, issue, review, ref/create, release
