@@ -15,15 +15,20 @@
 </p>
 
 <p align="center">
-	<img src="./metrics.lines.svg" alt="Toph Lumina recent lines changed and active repositories" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tophlumina&theme=github" alt="Toph Lumina repos per language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tophlumina&theme=github" alt="Toph Lumina most commit language" />
 </p>
 
 <p align="center">
-	<img src="./metrics.habits.svg" alt="Toph Lumina coding habits and active hours" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tophlumina&theme=github&utcOffset=8" alt="Toph Lumina productive time" />
 </p>
 
 <p align="center">
-	<img src="./metrics.activity.svg" alt="Toph Lumina recent repository activity" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=tophlumina&bg_color=transparent&color=6e7781&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Toph Lumina activity graph" />
+</p>
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tophlumina&theme=github" alt="Toph Lumina profile details" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

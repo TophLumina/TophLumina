@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
-  <title id="title">Metrics lines refreshing</title>
-  <desc id="desc">Temporary fallback while the metrics workflow regenerates recent code lines and repository activity.</desc>
-  <rect width="800" height="220" fill="#ffffff"/>
-  <text x="400" y="82" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#24292f">Recent code-change metrics are refreshing</text>
-  <text x="400" y="118" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">The previous render returned an empty panel, so this fallback is shown until the next Metrics workflow run.</text>
-  <text x="400" y="148" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">After a push to master or the scheduled run, this panel will show lines changed, active repositories, and recent diff history.</text>
-  <text x="400" y="178" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">If it still stays empty, the token likely lacks enough repository access for this plugin.</text>
-</svg>
