@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title desc">
+  <title id="title">Metrics activity placeholder</title>
+  <desc id="desc">Placeholder for recent repository activity metrics.</desc>
+  <rect width="800" height="220" fill="#ffffff"/>
+  <text x="400" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#24292f">Recent repository activity will appear here</text>
+  <text x="400" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">After the workflow runs, this panel will list recent pushes, PRs, issues, and touched repositories.</text>
+  <text x="400" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#57606a">The placeholders prevent broken images before the first GitHub Actions render.</text>
+</svg>
