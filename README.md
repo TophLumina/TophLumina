@@ -1,11 +1,9 @@
-<h1 align="center">Toph Lumina</h1>
-<h3 align="center">Computer Graphics | Rendering | Game Engine Technology</h3>
-
-<p align="center">Focused on graphics programming, real-time rendering, and engine-side systems.</p>
+<h1 align="center">Hi, I'm Toph Lumina</h1>
+<h3 align="center">I'm a university student exploring computer graphics, rendering, and game engine technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tophlumina&label=Profile%20views&color=0e75b6&style=flat" alt="tophlumina" /> </p>
 
-<h3 align="center">Development Metrics</h3>
+<h3 align="center">GitHub at a Glance</h3>
 
 <p align="center">
 	<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tophlumina&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Toph Lumina stats" />
@@ -33,7 +31,7 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tophlumina&theme=github" alt="Toph Lumina profile details" />
 </p>
 
-<h3 align="center">Core Stack</h3>
+<h3 align="center">What I Like Building With</h3>
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,py,unity,unreal,blender&theme=light&perline=7" alt="C++, C, C#, Python, Unity, Unreal Engine, and Blender" />
 </p>
